@@ -15,7 +15,7 @@
   },
   "jest": {
     "setupFiles": [
-      "/setupTests.js"
+      "./setupTests.js"
     ]
   },
   "scripts": {
